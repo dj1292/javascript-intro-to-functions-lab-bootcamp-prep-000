@@ -7,11 +7,7 @@ function whisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if ('hello'.toUpperCase()) {
-  return "YES INDEED!";
-    }
-
-}
+  if string === 
 function logWhisper(string) {
   console.log('hello');
 }
